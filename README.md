@@ -6,7 +6,7 @@
 🎓 &nbsp;I'm currently studying Systems Analysis and Development.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science, and Data Cloud.\
 🎮 &nbsp;In my free time, I like to play Playstation 5 games.\
-✉️ &nbsp;You can shoot me an email at arthurtomas.ep@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at arthurtomas.ep@gmail.com! I'll try to respond as soon as I can.
 
 
 ### Languages I have used
