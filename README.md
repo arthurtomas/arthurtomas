@@ -21,7 +21,7 @@
 ### Some of the technologies I have worked with
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
