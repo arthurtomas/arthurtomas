@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Systems Analysis and Development.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science, and Data Cloud.\
 🎮 &nbsp;In my free time, I like to play Playstation 5 games.\
