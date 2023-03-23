@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm a Java Backend Developer at GFT Group assigned to a US project at Cambridge Associates.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Data Science, and Data Cloud.\
-🎮 &nbsp;In my free time, I like to play Playstation 5 games.\
+🎓 &nbsp;I'm a Java Backend Developer working on an international project at Cambridge Associates.\
+🏦 &nbsp;I'm used to working on projects 100% in English.\
+:tent: &nbsp;In my free time, I like to go camping.\
 ✉️ &nbsp;You can shoot me an email at arthurtomas.ep@gmail.com! I'll try to respond as soon as I can.
 
 
