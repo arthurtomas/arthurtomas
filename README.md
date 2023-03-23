@@ -11,8 +11,8 @@
 
 ### Languages I have used
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Html5](https://img.shields.io/badge/-HTML5-000?&logo=Html5)
 ![Css3](https://img.shields.io/badge/-CSS3-000?&logo=Css3)
